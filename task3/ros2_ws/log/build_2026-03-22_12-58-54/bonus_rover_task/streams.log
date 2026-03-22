@@ -1,0 +1,45 @@
+[2.459s] Invoking command in '/root/AnkitKumar_horizon_s2/task3/ros2_ws/src/bonus_rover_task': PYTHONPATH=/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bonus_rover_task build --build-base /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build install --record /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/install.log --single-version-externally-managed install_data
+[2.860s] running egg_info
+[2.863s] creating ../../build/bonus_rover_task/bonus_rover_task.egg-info
+[2.865s] writing ../../build/bonus_rover_task/bonus_rover_task.egg-info/PKG-INFO
+[2.869s] writing dependency_links to ../../build/bonus_rover_task/bonus_rover_task.egg-info/dependency_links.txt
+[2.871s] writing entry points to ../../build/bonus_rover_task/bonus_rover_task.egg-info/entry_points.txt
+[2.873s] writing requirements to ../../build/bonus_rover_task/bonus_rover_task.egg-info/requires.txt
+[2.875s] writing top-level names to ../../build/bonus_rover_task/bonus_rover_task.egg-info/top_level.txt
+[2.877s] writing manifest file '../../build/bonus_rover_task/bonus_rover_task.egg-info/SOURCES.txt'
+[2.881s] reading manifest file '../../build/bonus_rover_task/bonus_rover_task.egg-info/SOURCES.txt'
+[2.883s] writing manifest file '../../build/bonus_rover_task/bonus_rover_task.egg-info/SOURCES.txt'
+[2.885s] running build
+[2.886s] running build_py
+[2.886s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build
+[2.888s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib
+[2.891s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task
+[2.892s] copying bonus_rover_task/sensor_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task
+[2.893s] copying bonus_rover_task/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task
+[2.895s] copying bonus_rover_task/listener_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task
+[2.896s] copying bonus_rover_task/decision_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task
+[2.897s] running install
+[2.898s] running install_lib
+[2.900s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task
+[2.902s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task/sensor_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task
+[2.903s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task
+[2.904s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task/listener_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task
+[2.905s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build/lib/bonus_rover_task/decision_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task
+[2.908s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task/sensor_node.py to sensor_node.cpython-310.pyc
+[2.914s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task/__init__.py to __init__.cpython-310.pyc
+[2.915s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task/listener_node.py to listener_node.cpython-310.pyc
+[2.919s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task/decision_node.py to decision_node.cpython-310.pyc
+[2.924s] running install_data
+[2.925s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/share/ament_index
+[2.927s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/share/ament_index/resource_index
+[2.929s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/share/ament_index/resource_index/packages
+[2.932s] copying resource/bonus_rover_task -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/share/ament_index/resource_index/packages
+[2.934s] copying package.xml -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/share/bonus_rover_task
+[2.934s] running install_egg_info
+[2.940s] Copying ../../build/bonus_rover_task/bonus_rover_task.egg-info to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task-0.0.0-py3.10.egg-info
+[2.951s] running install_scripts
+[2.998s] Installing decision_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/bonus_rover_task
+[3.000s] Installing listener_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/bonus_rover_task
+[3.002s] Installing sensor_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/bonus_rover_task
+[3.003s] writing list of installed files to '/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/install.log'
+[3.095s] Invoked command in '/root/AnkitKumar_horizon_s2/task3/ros2_ws/src/bonus_rover_task' returned '0': PYTHONPATH=/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bonus_rover_task build --build-base /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/build install --record /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/install.log --single-version-externally-managed install_data
