@@ -1,0 +1,5 @@
+[console_scripts]
+decision_node = rover_control.decision_node:main
+listener_node = rover_control.listener_node:main
+sensor_node = rover_control.sensor_node:main
+

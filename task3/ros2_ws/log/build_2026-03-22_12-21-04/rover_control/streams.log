@@ -1,0 +1,45 @@
+[0.884s] Invoking command in '/root/AnkitKumar_horizon_s2/task3/ros2_ws/src/rover_control': PYTHONPATH=/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_control build --build-base /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build install --record /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/install.log --single-version-externally-managed install_data
+[1.057s] running egg_info
+[1.057s] creating ../../build/rover_control/rover_control.egg-info
+[1.058s] writing ../../build/rover_control/rover_control.egg-info/PKG-INFO
+[1.058s] writing dependency_links to ../../build/rover_control/rover_control.egg-info/dependency_links.txt
+[1.059s] writing entry points to ../../build/rover_control/rover_control.egg-info/entry_points.txt
+[1.060s] writing requirements to ../../build/rover_control/rover_control.egg-info/requires.txt
+[1.060s] writing top-level names to ../../build/rover_control/rover_control.egg-info/top_level.txt
+[1.061s] writing manifest file '../../build/rover_control/rover_control.egg-info/SOURCES.txt'
+[1.063s] reading manifest file '../../build/rover_control/rover_control.egg-info/SOURCES.txt'
+[1.063s] writing manifest file '../../build/rover_control/rover_control.egg-info/SOURCES.txt'
+[1.064s] running build
+[1.064s] running build_py
+[1.064s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build
+[1.064s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib
+[1.065s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control
+[1.065s] copying rover_control/sensor_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control
+[1.065s] copying rover_control/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control
+[1.065s] copying rover_control/listener_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control
+[1.066s] copying rover_control/decision_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control
+[1.066s] running install
+[1.066s] running install_lib
+[1.067s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control
+[1.067s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control/sensor_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control
+[1.067s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control
+[1.067s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control/listener_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control
+[1.067s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build/lib/rover_control/decision_node.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control
+[1.068s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control/sensor_node.py to sensor_node.cpython-310.pyc
+[1.069s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control/__init__.py to __init__.cpython-310.pyc
+[1.069s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control/listener_node.py to listener_node.cpython-310.pyc
+[1.069s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control/decision_node.py to decision_node.cpython-310.pyc
+[1.069s] running install_data
+[1.069s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/share/ament_index
+[1.070s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/share/ament_index/resource_index
+[1.070s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/share/ament_index/resource_index/packages
+[1.070s] copying resource/rover_control -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/share/ament_index/resource_index/packages
+[1.070s] copying package.xml -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/share/rover_control
+[1.070s] running install_egg_info
+[1.072s] Copying ../../build/rover_control/rover_control.egg-info to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages/rover_control-0.0.0-py3.10.egg-info
+[1.075s] running install_scripts
+[1.093s] Installing decision_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/rover_control
+[1.094s] Installing listener_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/rover_control
+[1.094s] Installing sensor_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/rover_control
+[1.094s] writing list of installed files to '/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/install.log'
+[1.122s] Invoked command in '/root/AnkitKumar_horizon_s2/task3/ros2_ws/src/rover_control' returned '0': PYTHONPATH=/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/AnkitKumar_horizon_s2/task3/ros2_ws/install/rover_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_control build --build-base /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/build install --record /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/rover_control/install.log --single-version-externally-managed install_data
