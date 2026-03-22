@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/lv_3/lv_3.egg-info
+writing ../../build/lv_3/lv_3.egg-info/PKG-INFO
+writing dependency_links to ../../build/lv_3/lv_3.egg-info/dependency_links.txt
+writing entry points to ../../build/lv_3/lv_3.egg-info/entry_points.txt
+writing requirements to ../../build/lv_3/lv_3.egg-info/requires.txt
+writing top-level names to ../../build/lv_3/lv_3.egg-info/top_level.txt
+writing manifest file '../../build/lv_3/lv_3.egg-info/SOURCES.txt'
+reading manifest file '../../build/lv_3/lv_3.egg-info/SOURCES.txt'
+writing manifest file '../../build/lv_3/lv_3.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build
+creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib
+creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+copying lv_3/distance_publisher.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+copying lv_3/distance_subscriber.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+copying lv_3/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+running install
+running install_lib
+creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3/distance_publisher.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3/distance_subscriber.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3/distance_publisher.py to distance_publisher.cpython-310.pyc
+byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3/distance_subscriber.py to distance_subscriber.cpython-310.pyc
+byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index
+creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index/resource_index
+creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index/resource_index/packages
+copying resource/lv_3 -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index/resource_index/packages
+copying package.xml -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/lv_3
+running install_egg_info
+Copying ../../build/lv_3/lv_3.egg-info to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3-0.0.0-py3.10.egg-info
+running install_scripts
+Installing distance_publisher script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/lv_3
+Installing distance_subscriber script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/lv_3
+writing list of installed files to '/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/install.log'

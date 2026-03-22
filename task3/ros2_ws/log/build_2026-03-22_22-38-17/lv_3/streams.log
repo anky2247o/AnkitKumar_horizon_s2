@@ -1,0 +1,41 @@
+[1.173s] Invoking command in '/root/AnkitKumar_horizon_s2/task3/ros2_ws/src/lv_3': PYTHONPATH=/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lv_3 build --build-base /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build install --record /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/install.log --single-version-externally-managed install_data
+[1.405s] running egg_info
+[1.407s] creating ../../build/lv_3/lv_3.egg-info
+[1.408s] writing ../../build/lv_3/lv_3.egg-info/PKG-INFO
+[1.409s] writing dependency_links to ../../build/lv_3/lv_3.egg-info/dependency_links.txt
+[1.409s] writing entry points to ../../build/lv_3/lv_3.egg-info/entry_points.txt
+[1.410s] writing requirements to ../../build/lv_3/lv_3.egg-info/requires.txt
+[1.410s] writing top-level names to ../../build/lv_3/lv_3.egg-info/top_level.txt
+[1.411s] writing manifest file '../../build/lv_3/lv_3.egg-info/SOURCES.txt'
+[1.415s] reading manifest file '../../build/lv_3/lv_3.egg-info/SOURCES.txt'
+[1.416s] writing manifest file '../../build/lv_3/lv_3.egg-info/SOURCES.txt'
+[1.416s] running build
+[1.416s] running build_py
+[1.416s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build
+[1.417s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib
+[1.417s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+[1.418s] copying lv_3/distance_publisher.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+[1.419s] copying lv_3/distance_subscriber.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+[1.419s] copying lv_3/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3
+[1.419s] running install
+[1.419s] running install_lib
+[1.420s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+[1.421s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3/distance_publisher.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+[1.422s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3/distance_subscriber.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+[1.423s] copying /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build/lib/lv_3/__init__.py -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3
+[1.424s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3/distance_publisher.py to distance_publisher.cpython-310.pyc
+[1.426s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3/distance_subscriber.py to distance_subscriber.cpython-310.pyc
+[1.427s] byte-compiling /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3/__init__.py to __init__.cpython-310.pyc
+[1.428s] running install_data
+[1.428s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index
+[1.428s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index/resource_index
+[1.428s] creating /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index/resource_index/packages
+[1.429s] copying resource/lv_3 -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/ament_index/resource_index/packages
+[1.429s] copying package.xml -> /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/share/lv_3
+[1.429s] running install_egg_info
+[1.431s] Copying ../../build/lv_3/lv_3.egg-info to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages/lv_3-0.0.0-py3.10.egg-info
+[1.434s] running install_scripts
+[1.464s] Installing distance_publisher script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/lv_3
+[1.465s] Installing distance_subscriber script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/lv_3
+[1.465s] writing list of installed files to '/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/install.log'
+[1.498s] Invoked command in '/root/AnkitKumar_horizon_s2/task3/ros2_ws/src/lv_3' returned '0': PYTHONPATH=/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/AnkitKumar_horizon_s2/task3/ros2_ws/install/lv_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lv_3 build --build-base /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/build install --record /root/AnkitKumar_horizon_s2/task3/ros2_ws/build/lv_3/install.log --single-version-externally-managed install_data

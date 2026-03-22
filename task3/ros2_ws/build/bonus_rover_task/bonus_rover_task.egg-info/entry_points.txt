@@ -1,5 +1,0 @@
-[console_scripts]
-decision_node = bonus_rover_task.decision_node:main
-listener_node = bonus_rover_task.listener_node:main
-sensor_node = bonus_rover_task.sensor_node:main
-

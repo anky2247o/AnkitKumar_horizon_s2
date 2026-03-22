@@ -1,0 +1,4 @@
+[console_scripts]
+distance_publisher = lv_3.distance_publisher:main
+distance_subscriber = lv_3.distance_subscriber:main
+
