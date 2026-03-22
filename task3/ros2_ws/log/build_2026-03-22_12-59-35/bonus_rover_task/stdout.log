@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/bonus_rover_task/bonus_rover_task.egg-info/PKG-INFO
+writing dependency_links to ../../build/bonus_rover_task/bonus_rover_task.egg-info/dependency_links.txt
+writing entry points to ../../build/bonus_rover_task/bonus_rover_task.egg-info/entry_points.txt
+writing requirements to ../../build/bonus_rover_task/bonus_rover_task.egg-info/requires.txt
+writing top-level names to ../../build/bonus_rover_task/bonus_rover_task.egg-info/top_level.txt
+reading manifest file '../../build/bonus_rover_task/bonus_rover_task.egg-info/SOURCES.txt'
+writing manifest file '../../build/bonus_rover_task/bonus_rover_task.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/bonus_rover_task/bonus_rover_task.egg-info to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/python3.10/site-packages/bonus_rover_task-0.0.0-py3.10.egg-info
+running install_scripts
+Installing decision_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/bonus_rover_task
+Installing listener_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/bonus_rover_task
+Installing sensor_node script to /root/AnkitKumar_horizon_s2/task3/ros2_ws/install/bonus_rover_task/lib/bonus_rover_task
+writing list of installed files to '/root/AnkitKumar_horizon_s2/task3/ros2_ws/build/bonus_rover_task/install.log'
